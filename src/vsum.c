@@ -14,7 +14,7 @@ int vsum()
    for (i = 0; i < num; i++) {
       sum += va_arg(valist, int);
    }
-	
+ 
    /* clean memory reserved for valist */
    va_end(valist);
 
