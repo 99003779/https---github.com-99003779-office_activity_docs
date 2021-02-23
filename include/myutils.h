@@ -1,5 +1,5 @@
 /**
- * @file mystring.h
+ * @file myutils.h
  * @author Neha Tabassum (neha.tabassum@ltts.com)
  * @brief This file stores header for all the boxes
  * @version 0.1
