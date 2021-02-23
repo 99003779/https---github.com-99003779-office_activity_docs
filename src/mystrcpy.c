@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int mystrcpy() {
     char s1[100]="program", s2[100], i;
 
     for (i = 0; s1[i] != '\0'; ++i) {
