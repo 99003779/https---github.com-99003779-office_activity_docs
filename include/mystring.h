@@ -12,6 +12,7 @@
 # ifndef __MYSTRING_H__
 # define __MYSTRING_H__
 
-
-
+char *mystrcat(char *s1, char *s2);
+int mystrcmp(char *s1, char *s2);
+int mystrcpy();
 # endif
